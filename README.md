@@ -39,11 +39,7 @@ This project provides a basic RESTful API for managing a collection of books. Th
 - Go 1.20+ installed on your system.
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/book-api.git
-   cd book-api
-   ```
+1. Clone the repository
 
 2. To get dependencies :
     ```bash
